@@ -1,16 +1,38 @@
-## Hi there 👋
+# MohammadHossein Zeynali
 
-<!--
-**Mohammad5831/Mohammad5831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Node.js
 
-Here are some ideas to get you started:
+I build backend systems, REST APIs, business applications,
+and automation tools using Node.js and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Computer Engineering student
+- Focused on Backend Development
+- Interested in scalable and maintainable backend architectures
+- Experienced with Node.js, Express.js, MySQL and Sequelize
+- Currently expanding my knowledge in software engineering and backend architecture
+
+## Tech Stack
+
+JavaScript · Node.js · Express.js · MySQL · Sequelize
+MongoDB · Redis · REST API · Git · GitHub
+
+## Featured Projects
+
+### Nalingo
+Backend API for a language learning platform...
+
+### Golden Tower
+Full-stack e-commerce platform...
+
+### DeutschWelt
+German learning platform...
+
+### Golden Tower Trading Bot
+Telegram automation and AI-powered content generation...
+
+## Contact
+
+Telegram: @noxde
+GitHub: Mohammad5831
